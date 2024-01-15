@@ -15,6 +15,8 @@
   <img align="center" alt="Victor-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Victor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Victor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Victor-Appium" height="30" width="40" src="https://raw.githubusercontent.com/openjs-foundation/artwork/master/projects/appium/appium-icon-color.svg">
+  <img align="center" alt="Victor-Robotframework" height="49.5" width="65" style="float: left; clip: rect(auto, 48px, auto, auto);" src="https://raw.githubusercontent.com/robotframework/visual-identity/master/logo/robot-framework.svg">
 </div>
 
 
@@ -32,7 +34,7 @@
 ### Contatos
   
 <div> 
-  <a href="linkedin.com/in/victorcavalcanti7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/victorcavalcanti7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href = "mailto:victorcavalcan7i@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
  
